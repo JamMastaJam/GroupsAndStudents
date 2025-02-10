@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/ScaleApps
     username: postgres
-    password: 2024AdmiN2024
+    password: postgres
 
 
 
